@@ -1,0 +1,24 @@
+{
+  "name": "HinarioIASD",
+  "version": "1.0.0",
+  "description": "buscar e abrir os hinos",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "repository": "https://github.com/JoadsonRocha/Hinario-Adventista",
+  "keywords": [
+    "Electron",
+    "desktop",
+    "app",
+    "music",
+    "player"
+  ],
+  "icon": "img/icon.png",
+  "author": "Joadson-Rocha",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^23.2.0"
+  }
+}
